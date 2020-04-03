@@ -6,25 +6,18 @@
     width: 50%;
 }
 
-.stairsBorder{
-    border-color: black;
-    border-width: 5px;
-    border-style: solid;
-    border-radius: 10%;
-}
-
 #howdy{
     text-align: center;
 }
 
-#wip{
+/* #wip{
     text-align: center;
-}
+} */
 
 #holler{
     text-align: center;
 }
 
-#contact{
+#email{
     text-align: center;
 }
