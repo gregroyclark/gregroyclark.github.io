@@ -1,6 +1,4 @@
-Portfolio (Work in Progress)
-
-# Live Link: 
+# Portfolio
 ## https://gregroyclark.github.io/
 
 # GitHub:
