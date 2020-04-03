@@ -1,3 +1,6 @@
+/* .body{
+    background-color: 
+} */
 
 #gregStairs{
     display: block;
@@ -26,7 +29,7 @@
     border-width: 5px;
     border-style: solid;
     border-radius: 25px;
-    padding-left: -25px;
+    padding: 10px;
 }
 
 #holler{
