@@ -48,17 +48,24 @@
     text-align: center;
 }
 
+.navbar-brand{
+    text-align: center;
+}
+
 .homeBtn{
     padding: 5px;
     margin: 5px;
+    text-align: center;
 }
 
 .portfolioBtn{
     padding: 5px;
     margin: 5px;
+    text-align: center;
 }
 
 .contactBtn{
     padding: 5px;
     margin: 5px;
+    text-align: center;
 }
