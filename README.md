@@ -2,7 +2,13 @@ Portfolio (Work in Progress)
 
 # Live Link: 
 ## https://gregroyclark.github.io/
- 
 
-# Repo
-## 
+# GitHub:
+## https://github.com/gregroyclark
+
+# LinkedIn:
+##  https://www.linkedin.com/in/gregroyclark/
+
+# Technologies
+## HTML
+## CSS
