@@ -40,9 +40,9 @@
     border-width: 5px;
     border-style: solid;
     border-radius: 25px;
+    float: left;
     padding: 10px;
     text-align: center;
-    float: left;
 }
 
 .homeBtn{
