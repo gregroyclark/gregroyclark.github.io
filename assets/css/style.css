@@ -22,15 +22,17 @@
 } */
 
 #projects{
-    text-align: center;
+
     border-color: black;
     border-width: 5px;
     border-style: solid;
     border-radius: 25px;
-    width: 40%;
-    float: left;
-    margin-left: auto;
     display: block;
+    float: left;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    width: 40%;
 }
 
 #contactInfo{
@@ -40,6 +42,7 @@
     border-radius: 25px;
     padding: 10px;
     text-align: center;
+    float: left;
 }
 
 .homeBtn{
