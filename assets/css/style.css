@@ -33,19 +33,12 @@
     display: block;
 }
 
-#contactBorder{
+#contactInfo{
     border-color: black;
     border-width: 5px;
     border-style: solid;
     border-radius: 25px;
     padding: 10px;
-}
-
-#holler{
-    text-align: center;
-}
-
-#contactInfo{
     text-align: center;
 }
 
