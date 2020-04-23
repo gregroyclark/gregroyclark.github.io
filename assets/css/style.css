@@ -2,6 +2,10 @@
     background-color: 
 } */
 
+#howdy{
+    text-align: center;
+}
+
 #gregStairs{
     display: block;
     margin-left: auto;
@@ -13,16 +17,7 @@
     border-radius: 10%;
 }
 
-#howdy{
-    text-align: center;
-}
-
-/* #wip{
-    text-align: center;
-} */
-
 #projects{
-
     border-color: black;
     border-width: 5px;
     border-style: solid;
