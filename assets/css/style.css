@@ -54,3 +54,14 @@
     padding: 5px;
     margin: 5px;
 } */
+
+#headshot{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10%;
+}
