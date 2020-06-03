@@ -6,40 +6,6 @@
     text-align: center;
 }
 
-#gregStairs{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    border-color: black;
-    border-width: 5px;
-    border-style: solid;
-    border-radius: 10%;
-}
-
-#projects{
-    border-color: black;
-    border-width: 5px;
-    border-style: solid;
-    border-radius: 25px;
-    display: block;
-    float: left;
-    margin: auto;
-    padding: 10px;
-    text-align: center;
-    width: 40%;
-}
-
-#contactInfo{
-    border-color: black;
-    border-width: 5px;
-    border-style: solid;
-    border-radius: 25px;
-    float: left;
-    padding: 10px;
-    text-align: center;
-}
-
 .homeBtn{
     padding: 5px;
     margin: 5px;
