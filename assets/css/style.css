@@ -65,3 +65,16 @@
     border-style: solid;
     border-radius: 10%;
 }
+
+#projects{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 25px;
+    display: block;
+    float: left;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    width: 33%;
+}
